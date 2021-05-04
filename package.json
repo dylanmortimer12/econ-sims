@@ -15,7 +15,7 @@
     "@nivo/scatterplot": "^0.59.1",
     "bootstrap": "^4.3.1",
     "chi-squared": "^1.1.0",
-    "cumulative-distribution-function": "^1.0.3",
+    "cumulative-distribution-function": "^2.0.0",
     "distributions-exponential-cdf": "0.0.1",
     "distributions-exponential-quantile": "0.0.1",
     "distributions-normal-cdf": "0.0.2",
